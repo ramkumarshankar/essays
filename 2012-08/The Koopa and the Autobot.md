@@ -4,9 +4,9 @@ The Koopa and the Autobot
 As a kid, I used to think that the television would wait for me. Like when I turn the television off, radio transmission is paused. And when the tv is back on, programming magically resumes.
 
 To verify this, perform the following steps:
-- Turn on the television. Remember what was playing.
-- Turn it off.
-- Turn the television back on. Notice that the same show is playing. It’s usually is the same scene too.
+1. Turn on the television. Remember what was playing.
+2. Turn it off.
+3. Turn the television back on. Notice that the same show is playing. It’s usually is the same scene too.
 
 The television waits for me.
 
