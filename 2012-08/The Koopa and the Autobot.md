@@ -10,7 +10,7 @@ To verify this, perform the following steps:
 
 The television waits for me.
 
-If it happened to be a different scene or (rarely) a different show, I dismissed that as a glitch in the system. A system that, to me, worked almost every time.[^1]
+If it happened to be a different scene or (rarely) a different show, I dismissed that as a glitch in the system. A system that, to me, worked almost every time.[^fn-sample_footnote]
 
 Someone was doing it, someone at the broadcasting company. But who? Was it even a person? Maybe it was an Autobot whose job was to make sure kids don’t miss their favorite shows, especially Transformers. Or someone from Super Mario World. A kind Koopa? And was he taking turns with the Autobot? Because they need breaks too.
 
@@ -20,6 +20,6 @@ I don’t quite know when I figured this out. There is no specific moment that I
 
 The Koopa and the Autobot have now quietly made way for other things. I still miss them sometimes.
 
-[^1] The system did have a few caveats.
+[^fn-sample_footnote] The system did have a few caveats.
 * Changing the channel before turning the tv off was a no-no. It’ll stop the transmission for that channel and the ‘correct’ one will still be running.
 * There was a time limit for the wait. I pegged it to a half hour, but it could be longer sometimes. I could find no clear pattern. But if you didn’t turn the television back on within that period, the Koopa-Autobot team just decided to continue with the next scheduled programme.
